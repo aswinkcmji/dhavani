@@ -1,0 +1,45 @@
+
+/* HEADER */
+
+.app-land-header{
+    width: 100vw;
+    height: 3rem;
+    display: flex;
+    align-items: center;    
+    
+}
+.app-land-header p{
+    margin: auto;
+}
+.app-land-navbar{
+    width: 100vw;
+}
+.app-land-home-section{
+    padding-top: rem;
+    width: 100vw;
+    height: 100vh;
+}
+.app-land-collection-section{
+    width: 100vw;
+   
+}
+
+/* navigator */
+
+.navigator-top{
+    position: fixed;
+    width: 4rem;
+    height: 4rem;
+    background-color: black;
+    right: 2rem;
+    bottom: 2rem;
+    border-radius: 50%;
+    opacity: .8;
+}
+.navigator-top a{
+    display: flex;
+    height: inherit;
+    align-items: center;
+    justify-content: center;
+}
+
